@@ -5,14 +5,14 @@ This project demonstrates file handling, data structures, and real-world system 
 
 ## 🚀 Features
 
-➕ Add new books
-❌ Delete books
-📖 View all books
-🔍 Search books by title
-📥 Borrow books
-📤 Return books
-✏️ Update book information
-💾 Persistent storage using file handling
+-->➕ Add new books
+-->❌ Delete books
+-->📖 View all books
+-->🔍 Search books by title
+-->📥 Borrow books
+-->📤 Return books
+-->✏️ Update book information
+-->💾 Persistent storage using file handling
 
 ## 🧠 Concepts Used
 
